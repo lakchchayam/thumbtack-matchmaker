@@ -3,13 +3,6 @@ uvicorn[standard]
 langchain
 langgraph
 langchain-groq
-deepeval
 pydantic
-psycopg2-binary
-pgvector
-sqlalchemy
 python-dotenv
-sentence-transformers
-langchain-huggingface
-chromadb
 slowapi
